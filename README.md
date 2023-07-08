@@ -62,7 +62,7 @@ npm i
   
 </div>
 
-##### You can purchase de project in:
+##### You can purchase the project in:
 
 [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/chriisduran)
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/chriisduran)
