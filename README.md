@@ -58,7 +58,7 @@ npm i
 
 <div align="left">
   
-  [<img src="https://i.ibb.co/vX2mShm/chrisduran.png" width="55px">](https://www.facebook.com/christopherduran1994)
+  [<img src="https://i.ibb.co/vX2mShm/chrisduran.png" width="55px">](https://www.facebook.com/chriisduran)
   
 </div>
 
